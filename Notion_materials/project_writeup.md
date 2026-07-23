@@ -130,6 +130,7 @@ Monitor high-discount transactions more closely and investigate the underlying c
 ### Shift Performance Evaluation
 
 Incorporate profitability metrics alongside revenue growth when evaluating business performance to encourage sustainable growth.
+
 ---
 
 ## 7. Project Deliverables
