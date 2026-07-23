@@ -32,7 +32,7 @@ https://public.tableau.com/views/GlobalSuperstoreProfitabilityAnalysis_178476962
 This project answers the following questions:
 
 - How has business performance changed over time?
-- Did sales growth translate into profit growth?
+- Did continuous sales growth translate into sustainable profit growth?
 - Which product categories contributed most to declining profitability?
 - Which markets generated the greatest losses under high discounts?
 - Did aggressive discounting increase return risk?
@@ -82,7 +82,7 @@ Visualization (Python)
         ↓
 Interactive Dashboard (Tableau)
         ↓
-Business Report (Notion)
+Business Report 
         ↓
 Business Recommendations
 ---
@@ -98,7 +98,9 @@ Global Superstore Profitability Analysis
 ├── Python
 ├── SQL
 └── README.md
+```
 
+## Tech Stack
 ---
 ## Tech Stack
 
