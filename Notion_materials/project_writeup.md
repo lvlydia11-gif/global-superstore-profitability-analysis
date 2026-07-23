@@ -97,6 +97,7 @@ This suggests that regional pricing strategies, customer behavior and discount p
 Orders receiving aggressive discounts were more likely to be returned.
 
 The combination of lower margins and higher return rates further reduced business profitability.
+
 ---
 
 ## 6. Business Recommendations
