@@ -100,7 +100,6 @@ Global Superstore Profitability Analysis
 └── README.md
 ```
 
-## Tech Stack
 ---
 ## Tech Stack
 
