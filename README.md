@@ -68,6 +68,9 @@ This project answers the following questions:
 - Prioritize profitability over pure sales growth.
 
 ---
+## Project Workflow
+
+```text
 Business Understanding
         ↓
 Data Preparation (SQL)
@@ -81,8 +84,10 @@ Interactive Dashboard (Tableau)
 Business Report (Notion)
         ↓
 Business Recommendations
-
 ---
+## Project Structure
+
+```text
 Global Superstore Profitability Analysis
 │
 ├── Dashboard
