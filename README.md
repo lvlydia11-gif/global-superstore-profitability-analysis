@@ -22,6 +22,7 @@ actionable business recommendations.
 ## Dashboard
 
 ![Dashboard](Images/dashboard_preview.png)
+
 🔗 View Interactive Dashboard:
 https://public.tableau.com/views/GlobalSuperstoreProfitabilityAnalysis_17847696247550/GlobalSuperstoreSalesPerformanceDashboard?:language=zh-CN&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
