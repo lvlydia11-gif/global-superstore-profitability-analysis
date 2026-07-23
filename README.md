@@ -101,10 +101,19 @@ Global Superstore Profitability Analysis
 ---
 ## Tech Stack
 
+**Database**
 - PostgreSQL
+
+**Programming**
 - SQL
 - Python
+
+**Libraries**
 - Pandas
 - Matplotlib
+
+**Visualization**
 - Tableau Public
-- GitHub
+
+**Version Control**
+- Git & GitHub
